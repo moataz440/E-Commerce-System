@@ -64,3 +64,8 @@ error_log.txt
 .env
 .env.local
 appsettings.local.json
+
+# Claude Code artifacts
+.claude/
+.dist/
+.sixth/
